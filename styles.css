@@ -1,0 +1,19 @@
+
+#root {
+display: flex;
+  margin-top: 20vh;
+  padding-left: 20vh;
+gap: 15px;
+  }
+  
+  
+  
+  .btn {
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+      background-color: brown;
+      color: wheat;
+      cursor: pointer;
+  }
